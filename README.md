@@ -12,8 +12,6 @@
 - [Instagram](https://www.instagram.com/tenxhenriquex)
 - [GitHub](https://github.com/HenryqueX)
 
-- [Gerador de Senhas](https://github.com/HenryqueX/gerador-senhas): Aplicação para criar senhas seguras e personalizadas.
-
 ## Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
