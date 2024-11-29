@@ -1,6 +1,5 @@
-# 👋 Olá, Eu Sou o HenriqueX!
-💻 Desenvolvedor apaixonado por tecnologia, bots e automação.  
-🎮 Amante de games como Free Fire, GTA e Mortal Kombat Mobile.  
+# 👋 Olá, Eu Sou O HenriqueX
+💻 Desenvolvedor De Bots A Automação. 
 
 <div>
 <a href="https://github.com/HenryqueX">
