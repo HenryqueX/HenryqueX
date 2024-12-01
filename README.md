@@ -16,8 +16,10 @@
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryqueX&show_icons=true&theme=gotham)
 
-## 🔥 O que o HenriqueX Sabe?
-<!-- Skills: Programming Languages -->
+---
+
+## 🔥 O que o HenriqueX sabe?
+<!-- Skills: Ele sabe as programações em Python e JavaScript -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
