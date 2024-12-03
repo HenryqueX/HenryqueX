@@ -14,7 +14,9 @@
 </p>
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryqueX&show_icons=true&theme=gotham)
+<p align="center"><a href="https://github.com/HenryqueX"><img src="https://github-readme-stats.vercel.app/api?username=HenryqueX&show_icons=true&theme=chartreuse-dark"></a></p>
+<p align="center"><a href="https://github.com/HenryqueX"><img src="https://streak-stats.demolab.com/?user=HenryqueX&theme=chartreuse-dark"></a></p>
+<p align="center"><a href="https://github.com/HenryqueX"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryqueX&theme=chartreuse-dark&layout=compact"></a></p> 
 
 ---
 
