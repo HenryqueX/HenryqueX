@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Henrique!</h1>
+<h1 align="center">Olá, Eu Sou O HenriqueX</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dev%20de-Bots-blue?style=flat-square" />
@@ -14,21 +14,12 @@
 Sou um desenvolvedor de bots com experiência em **Node.js**, **JavaScript** e **TypeScript**.  
 Crio automações e funcionalidades para bots (principalmente para WhatsApp), sempre buscando inovar e tornar as interações mais inteligentes.
 
-Atualmente estou trabalhando em projetos pessoais e ajudando a comunidade a crescer com meus conhecimentos.
-
 ---
 
 ## Contato
 
 - **Instagram:** [@tenxhenriquex](https://www.instagram.com/tenxhenriquex)  
 - **WhatsApp:** [+55 88 8820-5721](https://wa.me/558888205721)
-
----
-
-## Em breve...
-
-Ainda não tenho repositórios públicos, mas estou preparando projetos incríveis para compartilhar com vocês!  
-Fique de olho e me acompanhe nas redes sociais.
 
 ---
 
