@@ -33,5 +33,5 @@ Fique de olho e me acompanhe nas redes sociais.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tenxhenriquex&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Henryquex&show_icons=true&theme=tokyonight" />
 </p>
